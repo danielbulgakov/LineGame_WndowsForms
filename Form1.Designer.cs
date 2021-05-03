@@ -56,8 +56,8 @@ namespace LineGame
             this.MinimumSize = new System.Drawing.Size(1000, 500);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
-            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.PaintLines);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.LineClicked);
             this.ResumeLayout(false);
             this.PerformLayout();
 
