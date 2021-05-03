@@ -46,7 +46,7 @@ namespace LineGame
             Invalidate();
         }
 
-        private void Paint(object sender, PaintEventArgs e)
+        private void PaintLines(object sender, PaintEventArgs e)
         {
             Graphics g = CreateGraphics();
             g.Clear(Color.White);
