@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineGame", "LineGame.csproj", "{79805E9A-5460-4BF5-8926-5AA918C94358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79805E9A-5460-4BF5-8926-5AA918C94358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79805E9A-5460-4BF5-8926-5AA918C94358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79805E9A-5460-4BF5-8926-5AA918C94358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79805E9A-5460-4BF5-8926-5AA918C94358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584FE821-CEEF-4975-BFE3-AE98185247C8}
+	EndGlobalSection
+EndGlobal
